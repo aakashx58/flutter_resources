@@ -29,7 +29,6 @@ Explore a comprehensive collection of Flutter resources! Here you'll find curate
 
 ## Instagram Pages
 - [FlutterDeviser](https://www.instagram.com/flutter.deviser/)
-- [DevDiariesWithVee](https://www.instagram.com/flutter.deviser/)
 - [Dancamdev](https://www.instagram.com/dancamdev/)
 - [FlutterWay](https://www.instagram.com/theflutterway/)
 - [FlutterGuy](https://www.instagram.com/the.flutter.guy/)
